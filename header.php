@@ -22,10 +22,11 @@
 </head>
 <body>
 	<header>
-		<div class="name">
-			<span class="name">Cameron Zaas</span>
-			<span class="title">Web Developer</span>
+		<div>
+			<span class="name">C<span class="sm-caps">ameron</span> Z<span class="sm-caps">aas</span></span>
+			<span class="title">W<span class="sm-caps">eb</span> D<span class="sm-caps">eveloper</span></span>
 		</div>
+		<span class="nav">&#9776;</span>
 		<nav>
 			<ul>
 				<li><a href="index.php">Portfolio</a></li>

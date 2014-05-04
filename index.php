@@ -2,7 +2,7 @@
 
 	<div class="main">
 		<div class="intro">
-			<p>Here is some of the work I've done. You can find the source code located on my github. </p>
+			<p>Here is some of the work I've done. You can find the source code located on my github.</p>
 		</div>
 		<article>
 			<h3>Mann Pools</h3>

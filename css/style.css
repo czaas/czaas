@@ -1,0 +1,38 @@
+html, body, header {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: "Open sans", Sans-Serif;
+  -webkit-font-smoothing: antialiased; }
+
+header {
+  background: #262626;
+  color: white;
+  padding: 1em; }
+
+.name, .title {
+  display: block; }
+
+.name {
+  font-size: 2.2em; }
+
+.title {
+  font-size: 1.8em;
+  color: #285287;
+  font-weight: 700; }
+
+.sm-caps {
+  font-variant: small-caps; }
+
+.nav {
+  float: right;
+  display: inline-block; }
+
+nav {
+  display: inline-block; }
+  nav ul {
+    height: 0; }
+  nav a {
+    color: #eeeeee;
+    text-decoration: none; }
