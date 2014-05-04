@@ -43,9 +43,15 @@ nav {
   display: block;
   width: 100%; }
   nav ul {
+    display: block;
+    overflow: hidden;
+    opacity: 0;
+    height: 0;
     padding: 0;
     list-style: none;
-    width: 100%; }
+    width: 100%;
+    margin: 0;
+    transition: opacity 0.2s linear; }
   nav li {
     border-top: 2px solid #172e4c;
     width: 100%;
@@ -57,3 +63,7 @@ nav {
     text-decoration: none;
     padding: 1em;
     display: block; }
+
+.open-nav {
+  height: auto;
+  opacity: 1; }
