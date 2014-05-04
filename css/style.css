@@ -8,11 +8,16 @@ body {
 
 header {
   background: #262626;
-  color: white;
+  color: white; }
+
+.nameTitle {
+  width: 200px;
+  display: inline-block;
   padding: 1em; }
 
 .name, .title {
-  display: block; }
+  display: block;
+  width: 200px; }
 
 .name {
   font-size: 2.2em; }
@@ -27,12 +32,28 @@ header {
 
 .nav {
   float: right;
-  display: inline-block; }
+  margin: 0.2em 1em;
+  display: inline-block;
+  font-size: 2em; }
+
+.nav:hover {
+  cursor: pointer; }
 
 nav {
-  display: inline-block; }
+  display: block;
+  width: 100%; }
   nav ul {
-    height: 0; }
+    padding: 0;
+    list-style: none;
+    width: 100%; }
+  nav li {
+    border-top: 2px solid #172e4c;
+    width: 100%;
+    text-align: center;
+    background: #4c4c4c; }
   nav a {
     color: #eeeeee;
-    text-decoration: none; }
+    font-size: 1.2em;
+    text-decoration: none;
+    padding: 1em;
+    display: block; }

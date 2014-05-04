@@ -2,17 +2,23 @@ html, body, header
 	margin: 0
 	padding: 0
 
+$dgray: rgb(38, 38, 38)
 $skyblue: rgb(40, 82, 135)
 
 body
 	font-family: 'Open sans', Sans-Serif
 	-webkit-font-smoothing: antialiased
 header
-	background: rgb(38, 38, 38)
+	background: $dgray
 	color: #fff
+	
+.nameTitle
+	width: 200px
+	display: inline-block
 	padding: 1em
 .name, .title
 	display: block
+	width: 200px
 .name
 	font-size: 2.2em
 .title
@@ -23,12 +29,29 @@ header
 	font-variant: small-caps
 .nav
 	float: right
+	margin: .2em 1em
 	display: inline-block
+	font-size: 2em
+.nav:hover
+	cursor: pointer
 nav
-	display: inline-block
+	display: block
+	width: 100%
 	ul
-		height: 0
+		//height: 0
+		//display: none
+		padding: 0
+		list-style: none
+		width: 100%
+	li
+		border-top: 2px solid darken($skyblue, 15%)
+		width: 100%
+		text-align: center
+		background: lighten($dgray, 15%)
 	a
 		color: #eee
+		font-size: 1.2em
 		text-decoration: none
+		padding: 1em
+		display: block
 		
