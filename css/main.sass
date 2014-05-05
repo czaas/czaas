@@ -16,12 +16,12 @@ header
 header::selection, .nav
 	background: transparent
 .nameTitle
-	width: 200px
+	width: 250px
 	display: inline-block
 	padding: 1em
 .name, .title
 	display: block
-	width: 200px
+	width: 250px
 .name
 	font-size: 2.2em
 .title
@@ -31,9 +31,9 @@ header::selection, .nav
 .sm-caps
 	font-variant: small-caps
 .nav
-	float: right
-	margin: .5em 1em
-	display: inline-block
+	position: absolute
+	right: 1em
+	top: .5em
 	font-size: 2em
 	transition: -webkit-transform .1s linear
 .nav:hover
@@ -74,26 +74,26 @@ nav
 // main body styling
 .main
 	padding: 1em
-	background: #ddd
+	background: #eee
+	a
+		color: darken($skyblue, 10%)
 article
+	margin-top: 1em
+	margin-bottom: 3em
 	h3
 		color: darken($dgray, 25%)
 	a
-		color: $skyblue
+		color: darken($skyblue, 10%)
 	img
 		width: 90%
 		border-radius: .2em
 		max-width: 31.25em
 		text-align: center
 		margin-bottom: 1em
-
-
-
-
-
-
-
-
+	p 
+		margin-top: 0
+.imp
+	color: $skyblue
 
 footer
 	background: $dgray

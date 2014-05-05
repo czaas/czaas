@@ -14,13 +14,13 @@ header::selection, .nav {
   background: transparent; }
 
 .nameTitle {
-  width: 200px;
+  width: 250px;
   display: inline-block;
   padding: 1em; }
 
 .name, .title {
   display: block;
-  width: 200px; }
+  width: 250px; }
 
 .name {
   font-size: 2.2em; }
@@ -34,9 +34,9 @@ header::selection, .nav {
   font-variant: small-caps; }
 
 .nav {
-  float: right;
-  margin: 0.5em 1em;
-  display: inline-block;
+  position: absolute;
+  right: 1em;
+  top: 0.5em;
   font-size: 2em;
   transition: -webkit-transform 0.1s linear; }
 
@@ -79,18 +79,28 @@ nav {
 
 .main {
   padding: 1em;
-  background: #dddddd; }
+  background: #eeeeee; }
+  .main a {
+    color: #1c3a60; }
 
-article h3 {
-  color: black; }
-article a {
+article {
+  margin-top: 1em;
+  margin-bottom: 3em; }
+  article h3 {
+    color: black; }
+  article a {
+    color: #1c3a60; }
+  article img {
+    width: 90%;
+    border-radius: 0.2em;
+    max-width: 31.25em;
+    text-align: center;
+    margin-bottom: 1em; }
+  article p {
+    margin-top: 0; }
+
+.imp {
   color: #285287; }
-article img {
-  width: 90%;
-  border-radius: 0.2em;
-  max-width: 31.25em;
-  text-align: center;
-  margin-bottom: 1em; }
 
 footer {
   background: #262626;
