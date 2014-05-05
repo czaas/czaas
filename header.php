@@ -32,7 +32,7 @@
 			<ul id="nav">
 				<li><a href="index.php">Portfolio</a></li>
 				<li><a href="writing.php">Writing</a></li>
-				<li><a href="contact.php">Contact Me</a></li>
+				<li><a href="contact.php">Contact</a></li>
 			</ul>
 		</nav>
 	</header>
