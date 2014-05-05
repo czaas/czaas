@@ -22,7 +22,7 @@
 	</script>	
 </head>
 <body>
-	<header>
+	<header id="header">
 		<div class="nameTitle">
 			<span class="name">C<span class="sm-caps">ameron</span> Z<span class="sm-caps">aas</span></span>
 			<span class="title">W<span class="sm-caps">eb</span> D<span class="sm-caps">eveloper</span></span>

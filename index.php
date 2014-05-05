@@ -6,24 +6,13 @@
 		</div>
 		<article>
 			<h3>M<span class="sm-caps">ann</span> P<span class="sm-caps">ool</span>s</h3>
-			<a href="work/mannpools.php"><img src="img/mannpools/banner.png"></a>
-			<ul>
-				<li>HTML</li>
-				<li>Sass</li>
-				<li>Javascript</li>
-				<li>Responsive Layout</li>
-			</ul>
+			<a href="work/mannpools.php"><img src="img/mannpools/banner-mannpools.png"></a>
+			<p>I designed the layout where the content is easily readable and comprehensible. I used the latest practices of HTML, Sass/CSS, Javascript, and some php to create this responsive website.</p>
 		</article><!-- end of project -->
 		<article>
 				<h3>P<span class="sm-caps">ierros</span> <span class="sm-caps">Cuisine</span></h3>
 				<a href="work/pierros.php"><img src="img/pierros/banner-pierros.png"></a>
-				<ul class="feat">
-					<li>Responsive Layout</li>
-					<li>HTML</li>
-					<li>Sass</li>
-					<li>Javascript</li>
-					<li><a href="work/pierros.php">View layouts</a></li>
-				</ul>
+				<p></p>
 			</article><!-- end of project -->
 			<article>
 				<h3><span class="sm-caps">the</span> DSP G<span class="sm-caps">roup</span></h3>
