@@ -75,7 +75,7 @@ nav {
 input, textarea {
   display: block;
   margin: 0.5em auto;
-  width: 225px;
+  width: 11.5em;
   font-size: 1.2em;
   border-radius: 0.2em;
   border: none;
@@ -93,7 +93,7 @@ textarea {
   opacity: 1; }
 
 #submit {
-  width: 150px;
+  width: 9.375em;
   background: #172e4c;
   color: white;
   border: none; }
@@ -105,7 +105,7 @@ textarea {
     color: #1c3a60; }
 
 article {
-  max-width: 500px;
+  max-width: 31.25em;
   margin: 1em auto 3em; }
   article h3 {
     color: black; }
@@ -133,10 +133,10 @@ footer {
     color: #285287;
     text-decoration: none; }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 50em) {
   header {
     width: 30%;
-    max-width: 360px;
+    max-width: 22.5em;
     position: fixed;
     height: 100%;
     left: 0;
@@ -144,7 +144,7 @@ footer {
 
   .nameTitle {
     background: #262626;
-    height: 100px;
+    height: 6.25em;
     text-align: center; }
 
   .nav {
