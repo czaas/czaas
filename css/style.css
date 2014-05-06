@@ -123,6 +123,12 @@ article {
 .imp {
   color: #285287; }
 
+.sm-vp {
+  width: 40%; }
+
+.med-vp {
+  width: 70%; }
+
 footer {
   background: #262626;
   color: white;

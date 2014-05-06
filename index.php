@@ -4,7 +4,7 @@
 		<article>
 			<h2>M<span class="sm-caps">y</span> P<span class="sm-caps">ortfolio</span></h2>
 			<p>All of my websites created have been responsive and made with best <span class="imp">HTML</span>, <span class="imp">CSS</span>, and <span class="imp">Javscript</span> preactices in mind.</p>
-			<p>You can find samples of my work on my <a href="https://github.com/czaas">github</a>. Please <a href="contact.php">contact</a> me with any queries you have and I will get back to you shortly.</p>
+			<p>You can find samples of my work on my <a href="https://github.com/czaas">github</a>. Please <span class="imp">contact</span> me with any queries you have and I will get back to you shortly.</p>
 		</article>
 		<article>
 			<h2>M<span class="sm-caps">ann</span> P<span class="sm-caps">ool</span>s</h2>
@@ -14,9 +14,9 @@
 		</article><!-- end of project -->
 		<article>
 				<h2>P<span class="sm-caps">ierros</span> <span class="sm-caps">Cuisine</span></h2>
-				<a href="work/pierros.php"><img src="img/pierros/banner-pierros.png"></a>
-				<p>For a restaurant, the mobile websites must be well laid out., most people that navigate to a restaurant want to know a few things off the bat; hours, menu, reservations, and a form of contact. I used <span class="imp">HTML</span>, <span class="imp">Sass/CSS</span>, and <span class="imp">Javascript</span> to give this restaurant a <span class="imp">responsive</span> website that the users want.</p>
-				<a href="">View the layouts for this site.</a>
+				<a href="pierros.php"><img src="img/pierros/banner-pierros.png"></a>
+				<p>For a restaurant, the mobile websites must be well laid out. Most people that navigate to a restaurant want to know a few things off the bat; hours, menu, reservations, and a form of contact. I used <span class="imp">HTML</span>, <span class="imp">Sass/CSS</span>, and <span class="imp">Javascript</span> to give this restaurant a <span class="imp">responsive</span> website that the users want.</p>
+				<a href="pierros.php">View the layouts for this site.</a>
 			</article><!-- end of project -->
 			<article>
 				<h2><span class="sm-caps">the</span> DSP G<span class="sm-caps">roup</span></h2>
