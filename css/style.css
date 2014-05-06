@@ -49,6 +49,7 @@ nav {
   width: 100%; }
   nav ul {
     display: block;
+    background: #404040;
     overflow: hidden;
     opacity: 0;
     height: 0;
@@ -75,14 +76,27 @@ input, textarea {
   display: block;
   margin: 0.5em auto;
   width: 225px;
-  font-size: 1.2em; }
+  font-size: 1.2em;
+  border-radius: 0.2em;
+  border: none;
+  padding: 0.2em; }
+
+input:focus, textarea:focus {
+  outline: #172e4c; }
 
 textarea {
-  resize: none; }
+  resize: none;
+  height: 5em; }
 
 .open-nav {
   height: auto;
   opacity: 1; }
+
+#submit {
+  width: 150px;
+  background: #172e4c;
+  color: white;
+  border: none; }
 
 .main {
   padding: 1em;

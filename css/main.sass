@@ -43,6 +43,7 @@ nav
 	width: 100%
 	ul
 		display: block
+		background: lighten($dgray, 10%)
 		overflow: hidden
 		opacity: 0
 		height: 0
@@ -69,11 +70,24 @@ input, textarea
 	margin: .5em auto
 	width: 225px
 	font-size: 1.2em
+	border-radius: .2em
+	border: none
+	padding: .2em
+
+input:focus, textarea:focus
+	outline: darken($skyblue, 15%)
 textarea
 	resize: none
+	height: 5em
 .open-nav
 	height: auto
 	opacity: 1
+#submit
+	width: 150px
+	background: darken($skyblue, 15%)
+	color: #fff
+	border: none
+
 
 
 // main body styling
