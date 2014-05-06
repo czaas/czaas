@@ -16,6 +16,9 @@ header::selection, .nav {
 .nameTitle {
   display: inline-block;
   padding: 1em; }
+  .nameTitle a {
+    color: white;
+    text-decoration: none; }
 
 .name, .title {
   display: block; }
@@ -75,8 +78,8 @@ nav {
 input, textarea {
   display: block;
   margin: 0.5em auto;
-  width: 11.5em;
-  font-size: 1.2em;
+  width: 13em;
+  font-size: 1em;
   border-radius: 0.2em;
   border: none;
   padding: 0.2em; }
@@ -97,6 +100,9 @@ textarea {
   background: #172e4c;
   color: white;
   border: none; }
+
+.code {
+  white-space: pre; }
 
 .main {
   padding: 1em;
@@ -122,6 +128,9 @@ article {
 
 .imp {
   color: #285287; }
+
+code {
+  white-space: normal; }
 
 .sm-vp {
   width: 40%; }
@@ -153,8 +162,7 @@ footer {
 
   .nameTitle {
     background: #262626;
-    height: 6.25em;
-    text-align: center; }
+    height: 6.25em; }
 
   .nav {
     display: none; }
@@ -176,4 +184,4 @@ footer {
     display: none; }
 
   footer {
-    padding-left: 30%; } }
+    padding-left: 32%; } }

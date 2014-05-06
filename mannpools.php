@@ -1,5 +1,5 @@
 <?php include('header.php') ?>
-	<div id="main" class="main">
+
 		<article>
 			<h2>Mann Pools</h2>
 			<p>I designed the layout where the content is easily readable and comprehensible. I used the latest practices of <span class="imp">HTML</span>, <span class="imp">Sass/CSS</span>, <span class="imp">Javascript</span>, and some <span class="imp">PHP</span> to create this <span class="imp">responsive</span> website.</p>
@@ -18,5 +18,4 @@
 			<h3>Large viewport</h3>
 			<a href="img/mannpools/mannpools-lg.png"><img class="lg-vp" src="img/mannpools/mannpools-lg.png"></a>
 		</article>
-	</div>
 <?php include('footer.php'); ?>

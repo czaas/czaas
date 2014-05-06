@@ -1,5 +1,4 @@
 <?php include('header.php') ?>
-	<div id="main" class="main">
 		<article>
 			<h2>Pierros Cuisine</h2>
 			<p>For a restaurant, the mobile websites must be well laid out. Most people that navigate to a restaurant want to know a few things off the away; hours, menu, reservations, and a form of contact. I used <span class="imp">HTML</span>, <span class="imp">Sass/CSS</span>, and <span class="imp">Javascript</span> to give this restaurant a <span class="imp">responsive</span> website that the users want.</p>
@@ -19,5 +18,4 @@
 				<h3>Large viewport</h3>
 				<a href="img/pierros/lg-pierros.png"><img class="lg-vp" src="../img/pierros/lg-pierros.png"></a>
 			</article>
-	</div>
 <?php include('footer.php'); ?>

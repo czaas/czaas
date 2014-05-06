@@ -4,11 +4,9 @@ html, body, header
 
 $dgray: rgb(38, 38, 38)
 $skyblue: rgb(40, 82, 135)
-
 body
 	font-family: 'Open sans', Sans-Serif
 	-webkit-font-smoothing: antialiased
-
 // header and navigation styling
 header
 	background: $dgray
@@ -18,6 +16,9 @@ header::selection, .nav
 .nameTitle
 	display: inline-block
 	padding: 1em
+	a
+		color: #fff
+		text-decoration: none
 .name, .title
 	display: block
 .name
@@ -68,8 +69,8 @@ nav
 input, textarea
 	display: block
 	margin: 0.5em auto
-	width: 11.5em
-	font-size: 1.2em
+	width: 13em
+	font-size: 1em
 	border-radius: 0.2em
 	border: none
 	padding: 0.2em
@@ -88,6 +89,8 @@ textarea
 	color: #fff
 	border: none
 
+.code
+	white-space: pre
 
 
 // main body styling
@@ -113,6 +116,8 @@ article
 		margin-top: 0
 .imp
 	color: $skyblue
+code
+	white-space: normal
 
 //work viewports
 .sm-vp
@@ -125,6 +130,7 @@ footer
 	background: $dgray
 	color: #fff
 	padding: 0.5em 1em
+
 	span
 		float: right
 	a
@@ -143,7 +149,6 @@ footer
 	.nameTitle
 		background: $dgray
 		height: 6.25em
-		text-align: center
 	.nav
 		display: none
 	nav
@@ -159,4 +164,4 @@ footer
 	#backToTop
 		display: none
 	footer
-		padding-left: 30%
+		padding-left: 32%

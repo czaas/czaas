@@ -1,5 +1,4 @@
 <?php include('header.php') ?>
-	<div id="main" class="main">
 		<article>
 			<h2>the DSP Group</h2>
 			<p>I used <span class="imp">HTML</span>, <span class="imp">Sass/CSS</span>, and <span class="imp">JQuery</span> to bring this site from a desktop site to <span class="imp">responsive</span> site.</p>
@@ -17,5 +16,4 @@
 			<h3>Large viewport</h3>
 			<a href="img/dsp/dsp-large.png"><img class="lg-vp" src="img/dsp/dsp-large.png"></a>
 		</article>
-	</div>
 <?php include('footer.php'); ?>

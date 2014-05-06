@@ -1,5 +1,4 @@
 <?php include('header.php') ?>
-	<div id="main" class="main">
 		<article>
 			<h2>Bomar Security Web App</h2>
 			<p>This web app is an internal site that the guards for this security company use so they may send reports and check boxes and a time stamp gets sent to HQ with their geo-location data.</p>
@@ -16,5 +15,4 @@
 			<a href="img/bomar/bomar.png"><img class="lg-vp" src="img/bomar/bomar.png"></a>
 		</article>
 
-	</div>
 <?php include('footer.php'); ?>

@@ -24,16 +24,19 @@
 <body>
 	<header id="header">
 		<div class="nameTitle">
+			<a href="index.php">
 			<span class="name">C<span class="sm-caps">ameron</span> Z<span class="sm-caps">aas</span></span>
 			<span class="title">W<span class="sm-caps">eb</span> D<span class="sm-caps">eveloper</span></span>
+			</a>
 		</div>
 		<span id="menu" class="nav">&#9776;</span>
 		<nav>
 			<ul id="nav">
-				<li><a href="index.php">Portfolio</a></li>
-				<li><a href="writing.php">Writing</a></li>
-				<li><a href="About.php">About</a></li>
+				<li><a href="index.php">My Portfolio</a></li>
+				<li><a href="writing.php">My Writing</a></li>
+				<li><a href="About.php">About Me</a></li>
 				<li>
+					<a href="!#">Contact Me</a>
 					<form action="mail.php" method="POST">
 						<input type="text" placeholder="Your name" name="name">
 						<input type="tel", placeholder="Your phone number" name="number">
@@ -48,3 +51,4 @@
 	<script type="text/javascript">
 		toggleMenu();
 	</script>
+	<div id="main" class="main">

@@ -1,5 +1,4 @@
 <?php include('header.php') ?>
-<div id="main" class="main">
 	<article>
 		<p>I used <span class="imp">HTML</span>, <span class="imp">Sass/CSS</span>, and <span class="imp">JQuery</span> to make this existing site <span class="imp">responsive</span>.</p>
 		<p>Below you see three view-ports, small, medium, and large. When making websites I use the mobile first approach and this leaves no device size out. I start with the smallest view-port, then expand and create breakpoints when necessary. </p>
@@ -15,8 +14,4 @@
 		<h3>Large viewport</h3>
 		<a href="img/swim/swim-large.png"><img class="lg-vp" src="img/swim/swim-large.png"></a>
 	</article>
-
-
-
-</div>
 <?php include('footer.php'); ?>

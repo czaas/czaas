@@ -1,5 +1,4 @@
 <?php include('header.php') ?>
-	<div id="main" class="main">
 		<article>
 			<h2>Edgewater Inn</h2>
 			<p>With <span class="imp">UX</span> in mind, I laid out the content in a easily digestible way so that when a guest gets to the website they can do what they want to do. I created this <span class="imp">responsive</span> website with <span class="imp">HTML</span>, <span class="imp">Sass/CSS</span>, and <span class="imp">JQuery</span>.</p>
@@ -17,7 +16,4 @@
 			<h3>Large viewport</h3>
 			<a href="img/edgewater/edgewater-large.png"><img class="larg-vp" src="img/edgewater/edgewater-large.png"></a>
 		</article>
-
-
-	</div>
 <?php include('footer.php'); ?>
