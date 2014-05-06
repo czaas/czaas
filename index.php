@@ -1,11 +1,11 @@
 <?php include('header.php'); ?>
 
-	<div class="main">
-		<div class="intro">
+	<div class="main" id="main">
+		<article>
 			<h2>M<span class="sm-caps">y</span> P<span class="sm-caps">ortfolio</span></h2>
 			<p>All of my websites created have been responsive and made with best <span class="imp">HTML</span>, <span class="imp">CSS</span>, and <span class="imp">Javscript</span> preactices in mind.</p>
 			<p>You can find samples of my work on my <a href="https://github.com/czaas">github</a>. Please <a href="contact.php">contact</a> me with any queries you have and I will get back to you shortly.</p>
-		</div>
+		</article>
 		<article>
 			<h2>M<span class="sm-caps">ann</span> P<span class="sm-caps">ool</span>s</h2>
 			<a href="work/mannpools.php"><img src="img/mannpools/banner-mannpools.png"></a>

@@ -32,7 +32,16 @@
 			<ul id="nav">
 				<li><a href="index.php">Portfolio</a></li>
 				<li><a href="writing.php">Writing</a></li>
-				<li><a href="contact.php">Contact</a></li>
+				<li><a href="About.php">About</a></li>
+				<li>
+					<form action="mail.php" method="POST">
+						<input type="text" placeholder="Your name" name="name">
+						<input type="tel", placeholder="Your phone number" name="number">
+						<input type="email" placeholder="Your email" name="email">
+						<textarea placeholder="Your message" name="message"></textarea>
+						<input id="submit" type="submit" value="Send Message">
+					</form>
+				</li>
 			</ul>
 		</nav>
 	</header>

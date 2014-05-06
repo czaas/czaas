@@ -16,12 +16,10 @@ header
 header::selection, .nav
 	background: transparent
 .nameTitle
-	width: 250px
 	display: inline-block
 	padding: 1em
 .name, .title
 	display: block
-	width: 250px
 .name
 	font-size: 2.2em
 .title
@@ -66,6 +64,13 @@ nav
 		text-decoration: none
 		padding: 1em
 		display: block
+input, textarea
+	display: block
+	margin: .5em auto
+	width: 225px
+	font-size: 1.2em
+textarea
+	resize: none
 .open-nav
 	height: auto
 	opacity: 1
@@ -78,8 +83,8 @@ nav
 	a
 		color: darken($skyblue, 10%)
 article
-	margin-top: 1em
-	margin-bottom: 3em
+	max-width: 500px
+	margin: 1em auto 3em
 	h3
 		color: darken($dgray, 25%)
 	a
@@ -106,22 +111,30 @@ footer
 		text-decoration: none
 
 @media screen and (min-width: 800px)
+	header
+		width: 30%
+		max-width: 360px
+		position: fixed
+		height: 100%
+		left: 0
+		display: block
+	.nameTitle
+		background: $dgray
+		height: 100px
+		text-align: center
 	.nav
 		display: none
-	header
-		padding: 0 3em
 	nav
-		display: inline-block
-		width: auto
 		height: 100%
-		margin-left: 3em
+		background: lighten($dgray, 10%)
 		ul
 			opacity: 1
-			height: auto
-			display: inline-block
-		li
-			display: inline-block
-			width: 120px
-			background: transparent
-			border-top: none
-			border-radius: .2em
+			height: 100%
+	.main
+		padding-left: 30%
+	article
+		margin-left: 2em
+	#backToTop
+		display: none
+	footer
+		padding-left: 30%
