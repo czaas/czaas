@@ -129,6 +129,9 @@ article {
 .med-vp {
   width: 70%; }
 
+.lg-vp {
+  max-width: 475px; }
+
 footer {
   background: #262626;
   color: white;
