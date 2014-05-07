@@ -6,6 +6,6 @@
 
 	<p>I've recently become interested in web design and development. I have found web development to be a challenging and rewarding endeavor.</p>
 
-	<p>If you would like to get in touch or work on a project together, message me and let's talk. You can find samples of my code on my <a href="https://github.com/czaas">github</a></p>
+	<p>If you would like to get in touch or work on a project together, message me and let's talk. You can find samples of my code on my <a href="https://github.com/czaas">github</a>.</p>
 </article>
 <?php include('footer.php'); ?>

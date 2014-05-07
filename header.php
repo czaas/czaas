@@ -34,9 +34,9 @@
 			<ul id="nav">
 				<li><a href="index.php">My Portfolio</a></li>
 				<li><a href="writing.php">My Writing</a></li>
-				<li><a href="About.php">About Me</a></li>
+				<li><a href="about.php">About Me</a></li>
 				<li>
-					<a href="!#">Contact Me</a>
+					<a href="#!">Contact Me</a>
 					<form action="mail.php" method="POST">
 						<input type="text" placeholder="Your name" name="name">
 						<input type="tel", placeholder="Your phone number" name="number">

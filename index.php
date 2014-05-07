@@ -38,7 +38,7 @@
 				<h2>E<span class="sm-caps">dgewater</span> I<span class="sm-caps">nn</span></h2>
 				<a href="edgewater.php"><img src="img/edgewater/edgewater-banner.png"></a>
 				<p>With <span class="imp">UX</span> in mind, I laid out the content in a easily digestible way so that when a guest gets to the website they can do what they want to do. I created this <span class="imp">responsive</span> website with <span class="imp">HTML</span>, <span class="imp">Sass/CSS</span>, and <span class="imp">JQuery</span>.</p>
-				<a href="edgewater.ph">View the layouts for this site.</a>
+				<a href="edgewater.php">View the layouts for this site.</a>
 			</article><!-- end of project -->
 
 <?php include('footer.php'); ?>

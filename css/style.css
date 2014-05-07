@@ -2,6 +2,11 @@ html, body, header {
   margin: 0;
   padding: 0; }
 
+html, body {
+  padding: 0;
+  margin: 0;
+  height: 100%; }
+
 body {
   font-family: "Open sans", Sans-Serif;
   -webkit-font-smoothing: antialiased; }
@@ -106,6 +111,7 @@ textarea {
 
 .main {
   padding: 1em;
+  min-height: 90.8%;
   background: #eeeeee; }
   .main a {
     color: #1c3a60; }
@@ -128,6 +134,9 @@ article {
 
 .imp {
   color: #285287; }
+
+.italic {
+  font-style: italic; }
 
 code {
   white-space: normal; }

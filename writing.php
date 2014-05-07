@@ -1,5 +1,8 @@
 <?php include('header.php') ?>
-	
+	<article>
+		<h2>My Writing:</h2>
+		<p>Here you will find either stuff I know, or stuff I'm working on, from new languages, best practices, and tools that I use.</p>
+	</article>
 
 <article>
 				<h3 id="responsive">Responsive Web Design</h3>
@@ -16,6 +19,14 @@
 				<p>Future friendly thinking is about being prepared to what’s next. Keeping your content ready for the next wave of emerging devices without sacrificing quality or cutting corners.</p>
 			
 				<p>Read more at <a href="http://futurefriendlyweb.com">Future Friendly Web</a>.</p>
+			</article>
+			<article>
+				<h3>git and github</h3>
+				<p class="italic">Disclaimer: I'm new to git and github. But I can't imagine a better way to manage version control. </p>
+				<p>github is a great place that keeps track of all of your commits, and a place to manage from small to large projects. </p>
+				<p></p>
+				<p>My github may be a bit sloppy with the commits I've chosen, or messages I give to my commits. I'm learning and will continue to use git/github for my future projects.  </p>
+				<p>Check out my <a href="https://github.com/czaas">github</a> and see what I'm talking about.</p>
 			</article>
 
 <?php include('footer.php'); ?>
