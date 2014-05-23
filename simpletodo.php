@@ -6,10 +6,10 @@
 	</article>
 	<article>
 		<h3>The HTML</h3>
-		<a href="img/simpleTodo/html.png"><img src="img/simpletodo/html.png"></a>
+		<a href="img/simpletodo/html.png"><img src="img/simpletodo/html.png"></a>
 	</article>
 	<article>
 		<h3>The Javascript (AngularJS)</h3>
-		<a href="img/simpletodo/angular.png"><img src="img/simpletodo/angularjs.png"></a>
+		<a href="img/simpletodo/angularjs.png"><img src="img/simpletodo/angularjs.png"></a>
 	</article>
 <?php include('footer.php'); ?>
