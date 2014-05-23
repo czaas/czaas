@@ -2,6 +2,7 @@
 <article>
 		<p>I used <span class="imp">HTML</span>, <span class="imp">Sass/CSS</span>, and <span class="imp">AngularJS</span> to make this simple to-do list.</p>
 		<p>This was one of my first attempts at AngularJS. <a href="demo/angular/simpletodo.html" target="_blank">Here is a live <span class="imp">demo</span></a></p>
+		<p>Check out my <a href="https://www.github.com/czaas/simpletodo">github</a> to pull my source code.</p>
 	</article>
 	<article>
 		<h3>The HTML</h3>
