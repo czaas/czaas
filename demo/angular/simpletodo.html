@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html ng-app>
+<head>
+	<title>To do list</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+	<script type="text/javascript" src="js/angular.min.js"></script>
+	<script type="text/javascript" src="js/underscore.min.js"></script>
+	<script type="text/javascript" src="js/angAPP.js"></script>
+</head>
+<body ng-controller="todoCtrl">
+	<div class="wrapper">
+		<h2>Total To-do: {{getTotalTodos()}}</h2>
+		<ul>
+			<li ng-repeat="todo in todos">
+				<input type="checkbox" ng-model="todo.done">
+				<span class="done-{{todo.done}}">{{todo.text}}</span>
+			</li>
+		</ul>
+		<form>
+			<input type="text" ng-model="formTodoText" ng-model-instant>
+			<button ng-click="addTodo()">Add</button>
+		</form>
+		<button class="btn" ng-click="clearFin()">Clear completed tasks</button>
+
+</div>
+<footer>Simple To do list <span>Made by <a href="czaas.com">Cameron Zaas</a></span></footer>
+</body>
+</html>

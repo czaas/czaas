@@ -5,6 +5,12 @@
 			<p>You can find samples of my work on my <a href="https://github.com/czaas">github</a>. Please <span class="imp">contact</span> me with any queries you have and I will get back to you shortly.</p>
 		</article>
 		<article>
+			<h2>Simple To-do list</h2>
+			<a href="simpletodo.php"><img src="img/simpletodo/banner-simpletodo.png"></a>
+			<p>A simple to-do list using <span class="imp">AngularJS</span>, <span class="imp">HTML</span>, <span class="imp">Sass/CSS</span> to create this <span class="imp">application</span>.</p>
+			<a href="simpletodo.php">View my source code.</a>
+		</article>
+		<article>
 			<h2>M<span class="sm-caps">ann</span> P<span class="sm-caps">ool</span>s</h2>
 			<a href="mannpools.php"><img src="img/mannpools/banner-mannpools.png"></a>
 			<p>I designed the layout where the content is easily readable and comprehensible. I used the latest practices of <span class="imp">HTML</span>, <span class="imp">Sass/CSS</span>, <span class="imp">Javascript</span>, and some <span class="imp">PHP</span> to create this <span class="imp">responsive</span> website.</p>
