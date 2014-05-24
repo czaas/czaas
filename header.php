@@ -29,7 +29,7 @@
 			<span class="title">W<span class="sm-caps">eb</span> D<span class="sm-caps">eveloper</span></span>
 			</a>
 		</div>
-		<span id="menu" class="nav">&#9776;</span>
+		<span id="menu" class="nav"><img src="img/menu.png"></span>
 		<nav>
 			<ul id="nav">
 				<li><a href="index.php">My Portfolio</a></li>

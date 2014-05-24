@@ -45,6 +45,9 @@ header::selection, .nav {
   top: 0.5em;
   font-size: 2em;
   transition: -webkit-transform 0.1s linear; }
+  .nav img {
+    width: 1.2em;
+    margin-top: 0.5em; }
 
 .nav:hover {
   cursor: pointer; }
