@@ -8,7 +8,7 @@ function toggleMenu(){
 	});
 };
 
-$(form).submit(function(event){
+$('form').submit(function(event){
 	event.preventDefault();
 
 	var formMessages = $('#form-messages');
