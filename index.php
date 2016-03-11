@@ -1,8 +1,7 @@
 <?php include('header.php'); ?>
 		<article>
 			<h2>M<span class="sm-caps">y</span> P<span class="sm-caps">ortfolio</span></h2>
-			<p>All of my websites created have been responsive and made with best <span class="imp">HTML</span>, <span class="imp">CSS</span>, and <span class="imp">Javscript</span> preactices in mind.</p>
-			<p>You can find samples of my work on my <a href="https://github.com/czaas">github</a>. Please <span class="imp">contact</span> me with any queries you have and I will get back to you shortly.</p>
+			<p>You can find my most recent work on my <a href="https://github.com/czaas">github profile</a>. Please <span class="imp">contact</span> me with any queries you have and I will get back to you shortly.</p>
 		</article>
 		<article>
 			<h2>Simple To-do list</h2>

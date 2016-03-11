@@ -38,9 +38,9 @@
 				<li>
 					<a href="#!">Contact Me</a>
 					<form action="mail.php" method="POST">
-						<input type="text" placeholder="Your name" name="name">
+						<input type="text" placeholder="Your name" name="name" required>
 						<input type="tel", placeholder="Your phone number" name="number">
-						<input type="email" placeholder="Your email" name="email">
+						<input type="email" placeholder="Your email" name="email" required>
 						<textarea placeholder="Your message" name="message"></textarea>
 						<input id="submit" type="submit" value="Send Message">
 					</form>
