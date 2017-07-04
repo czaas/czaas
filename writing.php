@@ -20,13 +20,5 @@
 			
 				<p>Read more at <a href="http://futurefriendlyweb.com">Future Friendly Web</a>.</p>
 			</article>
-			<article>
-				<h3>git and github</h3>
-				<p class="italic">Disclaimer: I'm new to git and github. But I can't imagine a better way to manage version control. </p>
-				<p>github is a great place that keeps track of all of your commits, and a place to manage from small to large projects. </p>
-				<p></p>
-				<p>My github may be a bit sloppy with the commits I've chosen, or messages I give to my commits. I'm learning and will continue to use git/github for my future projects.  </p>
-				<p>Check out my <a href="https://github.com/czaas">github</a> and see what I'm talking about.</p>
-			</article>
 
 <?php include('footer.php'); ?>
