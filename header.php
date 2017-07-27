@@ -13,18 +13,16 @@
 		<div class="nameTitle">
 			<a href="index.php">
 			<span class="name">C<span class="sm-caps">ameron</span> Z<span class="sm-caps">aas</span></span>
-			<span class="title">W<span class="sm-caps">eb</span> D<span class="sm-caps">eveloper</span></span>
+			<span class="title">Front-End Engineer</span>
 			</a>
 		</div>
 		<span id="menu" class="nav"><img src="img/menu.png"></span>
 		<nav>
 			<ul id="nav">
 				<li><a href="index.php">My Portfolio</a></li>
-				<li><a href="writing.php">My Writing</a></li>
+				<!-- <li><a href="writing.php">My Writing</a></li> -->
 				<li><a href="about.php">About Me</a></li>
 				<li class="no-hover">
-					<a>Contact Me</a>
-					
 					<p>cameronzaas@gmail.com</p>
 				</li>
 			</ul>
