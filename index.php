@@ -4,6 +4,12 @@
 			<p>You can find my most recent work on my <a href="https://github.com/czaas">github profile</a>. Please <span class="imp">contact</span> me with any queries you have and I will get back to you shortly.</p>
 		</article>
 		<article>
+			<h2>Sight Words</h2>
+			<a href="sightwords.php"><img src="img/sightwords/sightwords-logo.jpg"></a>
+			<p>An app for new readers to learn words you should know on sight. <span class="imp">Hyperapp (JS Library)</span>, <span class="imp">Speech Synthesis API</span>, <span class="imp">localStorage API</span></p>
+			<a href="sightwords.php">View my write up.</a>
+		</article>
+		<article>
 			<h2>Chad's Glass</h2>
 			<a href="chads-glass.php"><img src="img/chads-glass/chads-glass-logo.jpg"></a>
 			<p>Built a site for a friend. <span class="imp">Hyperapp (JS Library)</span>, <span class="imp">Infinite loading</span></p>
