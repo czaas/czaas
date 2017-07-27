@@ -4,9 +4,15 @@
 			<p>You can find my most recent work on my <a href="https://github.com/czaas">github profile</a>. Please <span class="imp">contact</span> me with any queries you have and I will get back to you shortly.</p>
 		</article>
 		<article>
+			<h2>Animal Selector</h2>
+			<a href="animal-selector.php"><img src="img/animal-selector/animal-selector-logo.jpg"></a>
+			<p>Fiddling with Google's material design standards both feel and motion. <span class="imp">React</span>, <span class="imp">Motion</span></p>
+			<a href="animal-selector.php">View my write up.</a>
+		</article>
+		<article>
 			<h2>Testa Painting Site</h2>
 			<a href="testa-painting.php"><img src="img/testa/testa-painting-logo.jpg"></a>
-			<p>Built a site for a local painting contractor <span class="imp">HTML</span>, <span class="imp">SASS/CSS</span>, <span class="imp">SASS/CSS</span> to create this <span class="imp">application</span>.</p>
+			<p>Built a site for a local painting contractor <span class="imp">HTML</span>, <span class="imp">SASS/CSS</span>, <span class="imp">JS</span></p>
 			<a href="testa-painting.php">View my write up.</a>
 		</article>
 		<article>
