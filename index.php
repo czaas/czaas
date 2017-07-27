@@ -4,6 +4,12 @@
 			<p>You can find my most recent work on my <a href="https://github.com/czaas">github profile</a>. Please <span class="imp">contact</span> me with any queries you have and I will get back to you shortly.</p>
 		</article>
 		<article>
+			<h2>Chad's Glass</h2>
+			<a href="chads-glass.php"><img src="img/chads-glass/chads-glass-logo.jpg"></a>
+			<p>Built a site for a friend. <span class="imp">Hyperapp (JS Library)</span>, <span class="imp">Infinite loading</span></p>
+			<a href="chads-glass.php">View my write up.</a>
+		</article>
+		<article>
 			<h2>Animal Selector</h2>
 			<a href="animal-selector.php"><img src="img/animal-selector/animal-selector-logo.jpg"></a>
 			<p>Fiddling with Google's material design standards both feel and motion. <span class="imp">React</span>, <span class="imp">Motion</span></p>
