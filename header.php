@@ -13,7 +13,7 @@
 		<div class="nameTitle">
 			<a href="index.php">
 			<span class="name">C<span class="sm-caps">ameron</span> Z<span class="sm-caps">aas</span></span>
-			<span class="title">Front-End Engineer</span>
+			<span class="title">Front-end Engineer</span>
 			</a>
 		</div>
 		<span id="menu" class="nav"><img src="img/menu.png"></span>
